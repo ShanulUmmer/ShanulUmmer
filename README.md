@@ -6,13 +6,13 @@
    - 🌱 Always learning new technologies and building real-world projects.
     
 
-     **🛠️ Tech Stack**
+  ## 🛠️ Tech Stack
    -    Languages
    -    Python
    -    HTML
    -    SQL
 
-       🎯 Current Goals
+  ## 🎯 Current Goals
    -    Learn Agentic AI
    -    Master Data Analytics 
    -    Contribute to Open Source
