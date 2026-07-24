@@ -11,7 +11,7 @@
    -    HTML
    -    SQL
 
-     **🎯 Current Goals**
+       🎯 Current Goals
    -    Learn Agentic AI
    -    Master Data Analytics 
    -    Contribute to Open Source
