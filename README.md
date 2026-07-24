@@ -5,12 +5,11 @@
    - 💻 Passionate about AI, Machine Learning, Python, and Accounting.
    - 🌱 Always learning new technologies and building real-world projects.
 
-
      🛠️ Tech Stack
-    - Languages
-    - Python
-    - HTML
-    - SQL
+        Languages
+        Python
+        HTML
+        SQL
 
      🎯 Current Goals
       Learn Agentic AI
